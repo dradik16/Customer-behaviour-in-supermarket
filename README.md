@@ -1,4 +1,4 @@
-# Dog-Breed-Quiz
+# Simulation of customer behaviour in supermarket with time series approach using comprehensive Monte-Carlo-Markov-Chains.
 This project simulates customer behaviour in a supermarket with time series approach using comprehensive Monte-Carlo-Markov-Chain (MCMC) simulations.
 The hypothetical supermarket consist of several sections including the checkout (endpoint). The procedure includes exploration of the recorded data within a single day of a week, 
 calculation of transition probabilites from one section of the supermarket to others, producing MCMC procedure for multiple customers, 
